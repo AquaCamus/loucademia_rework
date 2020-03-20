@@ -5,6 +5,9 @@ body{
 }
 
 h1{
-    margin-left: 9%;
     color: #ffffff;
+}
+
+.btn-warning{
+    background-color: #0e2653;
 }
